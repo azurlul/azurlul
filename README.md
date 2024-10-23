@@ -17,7 +17,7 @@
 
 - 📚️ **NUMBER_OF_PUBLIC_REPOS** public repositories.
 - ⭐️ **NUMBER_OF_STARS** stargazers. <img align="right" alt="Stars graph" src="sparklines/stargazers.svg" height="18px" />
-- 📧 Questions? Reach out via [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/reshowing)
+- 📧 Questions? Reach out via  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/reshowing)
 
 ---
 
