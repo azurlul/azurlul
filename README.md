@@ -15,7 +15,7 @@
 	</sub>
 </h6>
 
--  ![GitHub Stars](https://img.shields.io/github/stars/azurlul?style=flat&label=Total%20Stars)<img align="right" alt="Stars graph" src="sparklines/stargazers.svg" height="18px" /> 🌟
+-  ![GitHub Stars](https://img.shields.io/github/stars/azurlul?style=flat&label=Total%20Stars)<img align="right" alt="Stars graph" src="sparklines/stargazers.svg" height="18px" /> ☄️
 - 📧 Questions? Reach out via  [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?logo=Telegram&logoColor=white)](https://t.me/reshowing)
 
 ---
